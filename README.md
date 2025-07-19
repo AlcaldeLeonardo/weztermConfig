@@ -3,6 +3,6 @@
 Copiar este comando de bash
 
 ```bash
-git clone git@github.com:AlcaldeLeonardo/weztermConfig.git ~/.config/westerm
+git clone git@github.com:AlcaldeLeonardo/weztermConfig.git ~/.config/wezterm
 
 ```

@@ -13,10 +13,10 @@ config.initial_rows = 28
 -- or, changing the font size and color scheme.
 
 config.font = wezterm.font_with_fallback({
-	{ family = "JetBrains Mono" },
+	{ family = "Iosevka Nerd Font" },
 	{ family = "JoyPixels" },
 })
-config.font_size = 11
+config.font_size = 12
 
 --apariencia de barra de titulo y bordes de ventana
 config.window_decorations = "RESIZE"

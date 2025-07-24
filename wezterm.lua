@@ -23,8 +23,8 @@ config.window_decorations = "RESIZE"
 config.hide_tab_bar_if_only_one_tab = true
 
 -- fondo de pantalla
-config.window_background_image = "/home/leonardo/.config/wezterm/assets/black-blur-background.jpg"
-config.window_background_opacity = 0.95
+-- config.window_background_image = "/home/leonardo/.config/wezterm/assets/black-blur-background.jpg"
+config.window_background_opacity = 0.98
 
 --ajuste del padding
 config.window_padding = {
@@ -35,7 +35,7 @@ config.window_padding = {
 }
 
 --eleccion de tema de color
-config.color_scheme = "Breath"
+config.color_scheme = "Andromeda"
 
 -- Finally, return the configuration to wezterm:
 return config
